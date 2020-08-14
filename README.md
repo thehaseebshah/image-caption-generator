@@ -6,12 +6,12 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/zenyc/image-caption-generator)
 ![GitHub contributors](https://img.shields.io/github/contributors/zenyc/image-caption-generator)
 ![GitHub forks](https://img.shields.io/github/forks/zenyc/image-caption-generator?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/dialhaseeb?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dialhaseeb?style=social)](www.twitter.com/dialhaseeb)
 
 ![Logo](https://github.com/zenyc/zenyc/blob/master/logo-small.png)
 
 ## 🕯 About
-**image-caption-generator** is a *machine learning model* that generates the caption of a given image. It uses Deep Learning techniques to do so.
+**image-caption-generator** is a *machine learning model* that predicts the caption of a given image. The Flickr 8k dataset was used to train the model through Deep Learning techniques.
 
 <!--- Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.--->
 
@@ -44,7 +44,10 @@ Open `Anaconda Navigator` and click Jupyter Notebook.
 
 2- Copy the project files to the directory the notebooks are running.
 
+3- Github has a file upload limit of 100 MBs. Therefore files for this project that are larger than this limit(if any) are uploaded to a *Google Drive* and the link is [bit.ly/proj-dir](www.bit.ly/proj-dir). If, while running the notebook, you see some errors regarding missing files, download them from this link. Afterwards, copy those file(s) to the project's *proj-dir* directory.
+
 3- Open main.ipynb
+4- If you want to view how the model was built, open model.ipynb
 
 ## 📓 Using the Notebook
 
