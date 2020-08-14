@@ -1,17 +1,17 @@
 # Image Caption Generator
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
-![GitHub stars](https://img.shields.io/github/stars/zenyc/image_caption_generator?style=social)
-![Issues](https://img.shields.io/github/issues/zenyc/image_caption_generator)
-![GitHub repo size](https://img.shields.io/github/repo-size/zenyc/image_caption_generator)
-![GitHub contributors](https://img.shields.io/github/contributors/zenyc/image_caption_generator)
-![GitHub forks](https://img.shields.io/github/forks/zenyc/image_caption_generator?style=social)
+![GitHub stars](https://img.shields.io/github/stars/zenyc/image-caption-generator?style=social)
+![Issues](https://img.shields.io/github/issues/zenyc/image-caption-generator)
+![GitHub repo size](https://img.shields.io/github/repo-size/zenyc/image-caption-generator)
+![GitHub contributors](https://img.shields.io/github/contributors/zenyc/image-caption-generator)
+![GitHub forks](https://img.shields.io/github/forks/zenyc/image-caption-generator?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/dialhaseeb?style=social)
 
 ![Logo](https://github.com/zenyc/zenyc/blob/master/logo-small.png)
 
 ## 🕯 About
-**image_caption_generator** is a *machine learning model* that generates the caption of a given image. It uses Deep Learning techniques to do so.
+**image-caption-generator** is a *machine learning model* that generates the caption of a given image. It uses Deep Learning techniques to do so.
 
 <!--- Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.--->
 
